@@ -10,22 +10,22 @@ it is a game where you jumpy
 
 ## checklist
 - [x] basic movement
-  - [x] sneak
-	  - [ ] crawl
+	- [x] sneak
+		- [ ] crawl
 	- [ ] celeste dash?
 	- [ ] finetune it to make sure it's good and comfy
 - [ ] mouse rotation
 - [x] 45° snap rotation
-  - [ ] make camera follow it smoothly
+	- [ ] make camera follow it smoothly
 - [ ] slightly fancier model
-  - [ ] animated
+	- [ ] animated
 	- [ ] minecraft skin import
 - [x] a barebones level
 	- [ ] custom cube+collider object
-	  - [ ] other shapes (slope, cylinder?)
-	  - [ ] fixed-width borders (blender `inset faces` with different material)
+		- [ ] other shapes (slope, cylinder?)
+		- [ ] fixed-width borders (blender `inset faces` with different material)
 	- [ ] cube types
-	  - [ ] killbricks
+		- [ ] killbricks
 		- [ ] speedbricks
 		- [ ] fallbricks?
 		- [ ] celeste rhythmbricks
@@ -35,8 +35,8 @@ it is a game where you jumpy
 		- [ ] an assortment of levels
 	- [ ] level select screen
 	- [ ] custom level format
-	  - [ ] level editor
+		- [ ] level editor
 		- [ ] random generation
 		- [ ] level server
-		  - [ ] highscore system
+			- [ ] highscore system
 			- [ ] elo system? (like in lichess puzzles, failure = 1/nth of a loss)
