@@ -6,6 +6,7 @@ it is a game where you jumpy
 - space for jump
 - shift for going slow and also reducing inertia
 - comma and period to rotate left and right 45° (like in roblox)
+- r for restart
 
 ## checklist
 - [x] basic movement
