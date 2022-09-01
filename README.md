@@ -25,10 +25,12 @@ it is a game where you jumpy
 		- [ ] other shapes (slope, cylinder?)
 		- [ ] fixed-width borders (blender `inset faces` with different material)
 	- [ ] cube types
+		- [ ] winbricks (or should it be winzones?)
 		- [ ] killbricks
 		- [ ] speedbricks
 		- [ ] fallbricks?
 		- [ ] celeste rhythmbricks
+			- [ ] to the rhythm of smoothly looping music (idk if stock or make own)
 		- [ ] climbbricks
 		- [ ] movebricks?
 	- [ ] a complete level
@@ -40,3 +42,4 @@ it is a game where you jumpy
 		- [ ] level server
 			- [ ] highscore system
 			- [ ] elo system? (like in lichess puzzles, failure = 1/nth of a loss)
+- [ ] sound effects
