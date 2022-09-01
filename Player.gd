@@ -40,6 +40,10 @@ func _physics_process(delta):
 		cur_speed = speed
 		inertia_moment = pow(inertia, delta)
 	
+	if Input.is_action_pressed("move_jump"):
+		if is_on_floor():
+			velocity.y = jump_power
+	
 	velocity.x = velocity.x * inertia_moment + dir.x * cur_speed * (1 - inertia_moment)
 	velocity.z = velocity.z * inertia_moment + dir.z * cur_speed * (1 - inertia_moment)
 	velocity.y -= gravity * delta
@@ -49,9 +53,6 @@ func _physics_process(delta):
 		restart()
 	
 func _input(event):
-	if event.is_action_pressed("move_jump"):
-		if is_on_floor():
-			velocity.y = jump_power
 	if event.is_action_pressed("rotate_left"):
 		rotation_degrees.y = stepify(rotation_degrees.y, 45) + 45
 	if event.is_action_pressed("rotate_right"):
