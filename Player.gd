@@ -11,7 +11,7 @@ var velocity = Vector3.ZERO
 func _ready():
 	restart()
 
-func restart():
+func restart(): # TODO make proper
 	global_translation = Vector3.ZERO
 	velocity = Vector3.ZERO
 	rotation = Vector3.ZERO
@@ -57,5 +57,5 @@ func _input(event):
 		rotation_degrees.y = stepify(rotation_degrees.y, 45) + 45
 	if event.is_action_pressed("rotate_right"):
 		rotation_degrees.y = stepify(rotation_degrees.y, 45) - 45
-	if event.is_action_pressed("restart"): # TODO
+	if event.is_action_pressed("restart"):
 		restart()
