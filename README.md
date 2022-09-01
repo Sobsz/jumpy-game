@@ -17,6 +17,8 @@ it is a game where you jumpy
 - [ ] mouse rotation
 - [x] 45° snap rotation
 	- [ ] make camera follow it smoothly
+- [ ] toggle between 1st- and 3rd-person
+- [ ] make 3rd-person camera either collide with walls or semitransparently render any that are in the way
 - [ ] slightly fancier model
 	- [ ] animated
 	- [ ] minecraft skin import
@@ -29,6 +31,7 @@ it is a game where you jumpy
 		- [ ] killbricks
 		- [ ] speedbricks
 		- [ ] fallbricks?
+		- [ ] slipbricks
 		- [ ] celeste rhythmbricks
 			- [ ] to the rhythm of smoothly looping music (idk if stock or make own)
 		- [ ] climbbricks
