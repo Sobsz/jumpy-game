@@ -23,35 +23,37 @@ it is a game where you jumpy
 	- [ ] animated
 	- [ ] minecraft skin import
 - [x] a barebones level
-	- [ ] custom cube+collider object
-		- [ ] other shapes (slope, cylinder?)
-		- [ ] fixed-width borders (blender `inset faces` with different material)
-	- [ ] cube types
-		- [ ] winbricks (or should it be winzones?)
-		- [ ] killbricks
-		- [ ] speedbricks
-		- [ ] fallbricks?
-		- [ ] slipbricks
-		- [ ] celeste rhythmbricks
-			- [ ] to the rhythm of smoothly looping music (idk if stock or make own)
-		- [ ] climbbricks
-		- [ ] movebricks?
-		- [ ] buttonbricks??
-		- [ ] launchbricks?
-	- [ ] a complete level
-		- [ ] a level someone actively enjoys
-		- [ ] one level for each mechanic
-		- [ ] a full default level set (let's say 36 arranged in a pleasing way)
-		- [ ] a kaizo level
-	- [ ] level select screen
-		- [ ] level unlocking? (i'm thinking only the first `n` uncompleted levels would be available, effectively allowing for `n` skips that can be restored later)
-	- [ ] custom level format (includes custom movement values)
-		- [ ] custom music loading (non-trivial due to godot limitations, might need to import a non-unlicense module)
-		- [ ] level editor
-		- [ ] random generation
-		- [ ] level server
-			- [ ] global highscore system
-			- [ ] elo system? (like in lichess puzzles, failure = 1/nth of a loss)
+- [ ] custom cube+collider object
+	- [ ] other shapes (slope, cylinder?)
+	- [ ] fixed-width borders (blender `inset faces` with different material)
+- [ ] cube types
+	- [ ] winbricks (or should it be winzones?)
+	- [ ] killbricks
+	- [ ] speedbricks
+	- [ ] fallbricks?
+	- [ ] slipbricks
+	- [ ] celeste rhythmbricks
+		- [ ] to the rhythm of smoothly looping music (idk if stock or make own)
+	- [ ] climbbricks
+	- [ ] movebricks?
+	- [ ] buttonbricks??
+	- [ ] launchbricks?
+	- [ ] checkpointbricks (full reset would require going into a menu i guess)
+- [ ] a complete level
+	- [ ] a level someone actively enjoys
+	- [ ] one level for each mechanic
+	- [ ] a full default level set (let's say 36 arranged in a pleasing way)
+	- [ ] a kaizo level
+- [ ] custom level format (includes custom movement values)
+	- [ ] custom music loading (non-trivial due to godot limitations, might need to import a non-unlicense module)
+	- [ ] level editor
+	- [ ] random generation
+	- [ ] level server
+		- [ ] global highscore system
+		- [ ] elo system? (like in lichess puzzles, failure = 1/nth of a loss)
+- [ ] pause menu
+- [ ] level select screen
+	- [ ] level unlocking? (i'm thinking only the first `n` uncompleted levels would be available, effectively allowing for `n` skips that can be restored later)
 - [ ] sound effects
 - [ ] savefile
 	- [ ] best time and attempt count
