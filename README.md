@@ -2,11 +2,11 @@
 it is a game where you jumpy
 
 ## how gaming
-- wasd for movement
-- space for jump
-- shift for going slow and also reducing inertia
+- wasd to move
+- space to jump
+- shift to go slow and also reduce inertia
 - comma and period to rotate left and right 45° (like in roblox)
-- r for restart
+- r to restart
 
 ## checklist
 - [x] basic movement
