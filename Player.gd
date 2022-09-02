@@ -3,7 +3,9 @@ extends KinematicBody
 export var speed = 16
 export var slow_ratio = 0.25
 export var inertia = 1e-4
-export var inertia_slow_ratio = 1e-4
+export var inertia_air = 1e-2
+export var inertia_stop = 1e-12
+export var min_velocity = 1e-3
 export var jump_power = 16
 export var gravity = 64
 var velocity = Vector3.ZERO
@@ -19,35 +21,44 @@ func restart(): # TODO make proper
 func _physics_process(delta):
 	var dir = Vector3.ZERO
 	var cur_speed = 0
-	var inertia_moment = 0
 	
 	if Input.is_action_pressed("move_forward"):
-		dir.z += 1
+		dir += Vector3.FORWARD
 	if Input.is_action_pressed("move_backward"):
-		dir.z -= 1
+		dir += Vector3.BACK
 	if Input.is_action_pressed("move_left"):
-		dir.x += 1
+		dir += Vector3.LEFT
 	if Input.is_action_pressed("move_right"):
-		dir.x -= 1
+		dir += Vector3.RIGHT
 	if dir != Vector3.ZERO:
 		dir = dir.normalized()
 	dir = dir.rotated(Vector3.UP, global_rotation.y)
 
 	if Input.is_action_pressed("move_slow"):
 		cur_speed = speed * slow_ratio
-		inertia_moment = pow(inertia * inertia_slow_ratio, delta)
 	else:
 		cur_speed = speed
-		inertia_moment = pow(inertia, delta)
 	
 	if Input.is_action_pressed("move_jump"):
 		if is_on_floor():
 			velocity.y = jump_power
 	
-	velocity.x = velocity.x * inertia_moment + dir.x * cur_speed * (1 - inertia_moment)
-	velocity.z = velocity.z * inertia_moment + dir.z * cur_speed * (1 - inertia_moment)
+	var cur_inertia = 0
+	if is_on_floor():
+		if dir == Vector3.ZERO or Input.is_action_pressed("move_slow"):
+			cur_inertia = inertia_stop
+		else:
+			cur_inertia = inertia
+	else:
+		cur_inertia = inertia_air
+	cur_inertia = pow(cur_inertia, delta)
+	
+	velocity.x = velocity.x * cur_inertia + dir.x * cur_speed * (1 - cur_inertia)
+	velocity.z = velocity.z * cur_inertia + dir.z * cur_speed * (1 - cur_inertia)
 	velocity.y -= gravity * delta
 	velocity = move_and_slide(velocity, Vector3.UP)
+	if abs(velocity.x) < min_velocity: velocity.x = 0
+	if abs(velocity.z) < min_velocity: velocity.z = 0
 	
 	if global_translation.y < -3:
 		restart()
