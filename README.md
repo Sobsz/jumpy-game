@@ -36,13 +36,25 @@ it is a game where you jumpy
 			- [ ] to the rhythm of smoothly looping music (idk if stock or make own)
 		- [ ] climbbricks
 		- [ ] movebricks?
+		- [ ] buttonbricks??
+		- [ ] launchbricks?
 	- [ ] a complete level
-		- [ ] an assortment of levels
+		- [ ] a level someone actively enjoys
+		- [ ] one level for each mechanic
+		- [ ] a full default level set (let's say 36 arranged in a pleasing way)
+		- [ ] a kaizo level
 	- [ ] level select screen
-	- [ ] custom level format
+		- [ ] level unlocking? (i'm thinking only the first `n` uncompleted levels would be available, effectively allowing for `n` skips that can be restored later)
+	- [ ] custom level format (includes custom movement values)
+		- [ ] custom music loading (non-trivial due to godot limitations, might need to import a non-unlicense module)
 		- [ ] level editor
 		- [ ] random generation
 		- [ ] level server
-			- [ ] highscore system
+			- [ ] global highscore system
 			- [ ] elo system? (like in lichess puzzles, failure = 1/nth of a loss)
 - [ ] sound effects
+- [ ] savefile
+	- [ ] best time and attempt count
+	- [ ] settings
+		- [ ] controls
+		- [ ] visuals
