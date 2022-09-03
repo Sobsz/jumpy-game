@@ -16,6 +16,7 @@ it is a game where you jumpy
 	- [ ] celeste [coyote time](https://gamerant.com/celeste-coyote-time-mechanic-platforming-impact-hidden-mechanics/) (allow jumps right after falling off a platform)
 	- [ ] minecraft [stepping](https://www.mcpk.wiki/wiki/Special:MyLanguage/Stepping)?
 	- [ ] sonic continuous acceleration (specifically separate from inertia)
+	- [ ] variable-height jumps?
 	- [ ] finetune it to make sure it's good and comfy
 - [ ] mouse rotation
 - [x] 45° snap rotation
