@@ -23,6 +23,7 @@ it is a game where you jumpy
 	- [ ] make camera follow it smoothly
 - [ ] toggle between 1st- and 3rd-person
 - [ ] make 3rd-person camera either collide with walls or semitransparently render any that are in the way
+- [ ] shadow directly below player
 - [ ] slightly fancier model (procedural with adjustable size)
 	- [ ] animated
 	- [ ] minecraft skin import
