@@ -48,7 +48,7 @@ aka what to play while waiting for me to finish this
 [^6]: colors and t-shirts are free, everything else is microtransactions
 [^7]: o kama jo lon [ni](https://gamebanana.com/mods/420491)
 
-honorable mention: [neverball](https://neverball.org/) which isn't a platformer but has similar vibes
+honorable mention: [neverball](https://neverball.org/) which isn't really a standard platformer but has similar vibes outside of that (and is also quite fun)
 
 ## todo
 
