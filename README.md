@@ -26,12 +26,12 @@ aka what to play while waiting for me to finish this
 | **gameplay**	|	|	|	|	|	|	|	|	|	|
 | dimensions	| 2	| 2	| 3	| 3	| 3	| 3	| 3	| 3	| 3	|
 | howlongtobeat (official, main + extra)	| 25	| 1	| n/a	| 15+[^3]	| n/a	| 17	| 5.5	| 2.5	| 5?	|
+| caters to noobs	| 〰	| 〰	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	|
+| caters to advanced	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	|
+| caters to experts	| ✅	| ✅	| ✅	| ❌	| ✅	| ✅	| ✅	| ❌	| ❔	|
 | custom levels	| ✅	| 〰	| ✅	| 〰	| ✅	| 〰	| ✅	| ❌	| ✅	|
 | ↑ sorted by difficulty	| ❌	| ❔	| 〰[^4]		| ❌	| ✅[^5]	| ❌	| ❌	| n/a	| ✅	|
-| moddability	| ✅	| ❌	| ✅	| ✅	| ✅	| ✅	| ❌	| n/a	| ✅	|
-| caters to noobs	| 〰	| ❌	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	|
-| caters to advanced	| ✅	| 〰	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	|
-| caters to experts	| ✅	| ✅	| ✅	| ❌	| ✅	| ✅	| ✅	| ❌	| ❔	|
+| custom elements	| ✅	| ❌	| ✅	| ✅	| ✅	| ✅	| ❌	| n/a	| ✅	|
 | sanctioned cheats	| ✅	| ❌	| ✅	| ❌	| ❌	| 〰		| ❌	| ❌	| ✅	|
 | multiplayer	| ✅	| ❌	| ✅	| ✅	| ✅	| ✅	| ❌	| ❌	| ❌	|
 | **other**	|	|	|	|	|	|	|	|	|	|
