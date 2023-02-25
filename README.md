@@ -20,14 +20,14 @@ aka what to play while waiting for me to finish this
 | free	| ❌	| ✅	| ❌	| ✅	| ✅	| ❌	| ❌	| ❌	| ✅	|
 | offline	| ✅	| ✅	| ✅	| ❌	| ❌	| ✅	| ✅	| ✅	| ✅	|
 | pc	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	|
-| browser	| 〰	| ❌	| ❌	| ✅	| ❌	| ❌	| ❌	| ❌	| ✅	|
+| browser	| 〰[^1]	| ❌	| ❌	| ✅	| ❌	| ✅[^2]	| ❌	| ❌	| ✅	|
 | mobile	| ❌	| ❌	| ✅	| ✅	| ✅	| ✅	| ❌	| ❌	| ✅	|
 | console	| ✅	| ❌	| ✅	| ❌	| ✅	| ✅	| ✅	| ❌	| ❌	|
 | **gameplay**	|	|	|	|	|	|	|	|	|	|
 | dimensions	| 2	| 2	| 3	| 3	| 3	| 3	| 3	| 3	| 3	|
-| howlongtobeat (official, main + extra)	| 25	| 1	| n/a	| 15+[^1]	| n/a	| 17	| 5.5	| 2.5	| 5?	|
+| howlongtobeat (official, main + extra)	| 25	| 1	| n/a	| 15+[^3]	| n/a	| 17	| 5.5	| 2.5	| 5?	|
 | custom levels	| ✅	| 〰	| ✅	| 〰	| ✅	| 〰	| ✅	| ❌	| ✅	|
-| ↑ sorted by difficulty	| ❌	| ❔	| 〰[^2]		| ❌	| ✅[^3]	| ❌	| ❌	| n/a	| ✅	|
+| ↑ sorted by difficulty	| ❌	| ❔	| 〰[^4]		| ❌	| ✅[^5]	| ❌	| ❌	| n/a	| ✅	|
 | moddability	| ✅	| ❌	| ✅	| ✅	| ✅	| ✅	| ❌	| n/a	| ✅	|
 | caters to noobs	| 〰	| ❌	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	|
 | caters to advanced	| ✅	| 〰	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	|
@@ -36,14 +36,17 @@ aka what to play while waiting for me to finish this
 | multiplayer	| ✅	| ❌	| ✅	| ✅	| ✅	| ✅	| ❌	| ❌	| ❌	|
 | **other**	|	|	|	|	|	|	|	|	|	|
 | visual style	| complex	| simple	| complex	| complex	| complex	| complex	| simple	| simple	| simple	|
-| custom player visuals	| ✅	| ❌	| ✅	| ✅	| 〰[^4]		| ✅	| ❌	| ❌	| ✅	|
+| custom player visuals	| ✅	| ❌	| ✅	| ✅	| 〰[^6]		| ✅	| ❌	| ❌	| ✅	|
 | rhythm elements	| ✅	| ❌	| 〰	| ❌	| ✅	| ❔	| ❌	| ❌	| ✅	|
-| toki pona translation	| ✅	| ❌	| ✅	| ❌	| ❌	| ❌	| ❌	| ❌	| ✅	|
+| toki pona translation	| ✅[^7]	| ❌	| ✅	| ❌	| ❌	| ❌	| ❌	| ❌	| ✅	|
 
-[^1]: based on [incomplete speedrun times](https://www.speedrun.com/na2/full_game)
-[^2]: [world parkour maker](https://www.worldparkourmaker.com/), maybe some offline collections too but idk
-[^3]: [tiered obbies](https://www.roblox.com/games/5946849188/Tiered-Obbies), [Juke's Towers of Hell](https://www.roblox.com/games/8562822414/Jukes-Towers-of-Hell) (and similar, e.g. [The Noob Zone Towers](https://www.roblox.com/games/8678939697/The-Noob-Zone-Towers)), difficulty chart obbies
-[^4]: colors and t-shirts are free, everything else is microtransactions
+[^1]: [the pico-8 version](https://mattmakesgames.itch.io/celesteclassic)
+[^2]: idk if i can link it but it's out there
+[^3]: based on [incomplete speedrun times](https://www.speedrun.com/na2/full_game)
+[^4]: [world parkour maker](https://www.worldparkourmaker.com/), maybe some offline collections too but idk
+[^5]: [tiered obbies](https://www.roblox.com/games/5946849188/Tiered-Obbies), [Juke's Towers of Hell](https://www.roblox.com/games/8562822414/Jukes-Towers-of-Hell) (and similar, e.g. [The Noob Zone Towers](https://www.roblox.com/games/8678939697/The-Noob-Zone-Towers)), difficulty chart obbies
+[^6]: colors and t-shirts are free, everything else is microtransactions
+[^7]: o kama jo lon [ni](https://gamebanana.com/mods/420491)
 
 honorable mention: [neverball](https://neverball.org/) which isn't a platformer but has similar vibes
 
