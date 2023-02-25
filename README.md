@@ -1,14 +1,54 @@
 # jumpy game
-it is a game where you jumpy
+
+it will eventually be a game where you jumpy
 
 ## how gaming
+
 - wasd to move
 - space to jump
 - shift to go slow and also reduce inertia
 - comma and period to rotate left and right 45° (like in roblox)
 - r to restart
 
-## checklist
+## comparison
+
+aka what to play while waiting for me to finish this
+
+|	| [Celeste](https://www.celestegame.com/)	| [Micro Platformer](https://store.steampowered.com/app/1283130/Micro_Platformer/)	| [Minecraft](https://minecraft.net/) parkour	| [ClassiCube](https://www.classicube.net/) (Not Awesome 2)	| [Roblox](https://roblox.com/) obbies	| [Super Mario 64](https://www.mariowiki.com/Super_Mario_64)	| [Clustertruck](https://landfall.se/clustertruck)	| [MEANDERS](https://store.steampowered.com/app/734920/MEANDERS/)	| jumpy game (eventually)	|
+| -:	| :-:	| :-:	| :-:	| :-:	| :-:	| :-:	| :-:	| :-:	| :-:	|
+| **access**	|	|	|	|	|	|	|	|	|	|
+| free	| ❌	| ✅	| ❌	| ✅	| ✅	| ❌	| ❌	| ❌	| ✅	|
+| offline	| ✅	| ✅	| ✅	| ❌	| ❌	| ✅	| ✅	| ✅	| ✅	|
+| pc	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	|
+| browser	| 〰	| ❌	| ❌	| ✅	| ❌	| ❌	| ❌	| ❌	| ✅	|
+| mobile	| ❌	| ❌	| ✅	| ✅	| ✅	| ✅	| ❌	| ❌	| ✅	|
+| console	| ✅	| ❌	| ✅	| ❌	| ✅	| ✅	| ✅	| ❌	| ❌	|
+| **gameplay**	|	|	|	|	|	|	|	|	|	|
+| dimensions	| 2	| 2	| 3	| 3	| 3	| 3	| 3	| 3	| 3	|
+| howlongtobeat (official, main + extra)	| 25	| 1	| n/a	| 15+[^1]	| n/a	| 17	| 5.5	| 2.5	| 5?	|
+| custom levels	| ✅	| 〰	| ✅	| 〰	| ✅	| 〰	| ✅	| ❌	| ✅	|
+| ↑ sorted by difficulty	| ❌	| ❔	| 〰[^2]		| ❌	| ✅[^3]	| ❌	| ❌	| n/a	| ✅	|
+| moddability	| ✅	| ❌	| ✅	| ✅	| ✅	| ✅	| ❌	| n/a	| ✅	|
+| caters to noobs	| 〰	| ❌	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	|
+| caters to advanced	| ✅	| 〰	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	|
+| caters to experts	| ✅	| ✅	| ✅	| ❌	| ✅	| ✅	| ✅	| ❌	| ❔	|
+| sanctioned cheats	| ✅	| ❌	| ✅	| ❌	| ❌	| 〰		| ❌	| ❌	| ✅	|
+| multiplayer	| ✅	| ❌	| ✅	| ✅	| ✅	| ✅	| ❌	| ❌	| ❌	|
+| **other**	|	|	|	|	|	|	|	|	|	|
+| visual style	| complex	| simple	| complex	| complex	| complex	| complex	| simple	| simple	| simple	|
+| custom player visuals	| ✅	| ❌	| ✅	| ✅	| 〰[^4]		| ✅	| ❌	| ❌	| ✅	|
+| rhythm elements	| ✅	| ❌	| 〰	| ❌	| ✅	| ❔	| ❌	| ❌	| ✅	|
+| toki pona translation	| ✅	| ❌	| ✅	| ❌	| ❌	| ❌	| ❌	| ❌	| ✅	|
+
+[^1]: based on [incomplete speedrun times](https://www.speedrun.com/na2/full_game)
+[^2]: [world parkour maker](https://www.worldparkourmaker.com/), maybe some offline collections too but idk
+[^3]: [tiered obbies](https://www.roblox.com/games/5946849188/Tiered-Obbies), [Juke's Towers of Hell](https://www.roblox.com/games/8562822414/Jukes-Towers-of-Hell) (and similar, e.g. [The Noob Zone Towers](https://www.roblox.com/games/8678939697/The-Noob-Zone-Towers)), difficulty chart obbies
+[^4]: colors and t-shirts are free, everything else is microtransactions
+
+honorable mention: [neverball](https://neverball.org/) which isn't a platformer but has similar vibes
+
+## todo
+
 - [x] basic movement
 	- [x] sneak
 		- [ ] crawl
