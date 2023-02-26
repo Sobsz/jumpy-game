@@ -14,7 +14,9 @@ it will eventually be a game where you jumpy
 
 aka what to play while waiting for me to finish this
 
-|	| [Celeste](https://www.celestegame.com/)	| [Micro Platformer](https://store.steampowered.com/app/1283130/Micro_Platformer/)	| [Minecraft](https://minecraft.net/) parkour	| [ClassiCube](https://www.classicube.net/) (Not Awesome 2)	| [Roblox](https://roblox.com/) obbies	| [Super Mario 64](https://www.mariowiki.com/Super_Mario_64)	| [Clustertruck](https://landfall.se/clustertruck)	| [MEANDERS](https://frazack.itch.io/meanders)	| jumpy game (eventually)	|
+(wider view [here](https://github.com/Sobsz/jumpy-game/blob/main/README.md#comparison))
+
+|	| [Celeste](https://www.celestegame.com/)	| [Micro Platformer](https://store.steampowered.com/app/1283130/Micro_Platformer/)	| [Minecraft](https://minecraft.net/) parkour	| [ClassiCube](https://www.classicube.net/) (Not Awesome 2 server)	| [Roblox](https://roblox.com/) obbies	| [Super Mario 64](https://www.mariowiki.com/Super_Mario_64)	| [Clustertruck](https://landfall.se/clustertruck)	| [MEANDERS](https://frazack.itch.io/meanders)	| jumpy game (planned)	|
 | -:	| :-:	| :-:	| :-:	| :-:	| :-:	| :-:	| :-:	| :-:	| :-:	|
 | **access**	|	|	|	|	|	|	|	|	|	|
 | free	| ❌	| ✅	| ❌	| ✅	| ✅	| ❌	| ❌	| ❌	| ✅	|
@@ -35,7 +37,7 @@ aka what to play while waiting for me to finish this
 | sanctioned cheats	| ✅	| ❌	| ✅	| ❌	| ❌	| 〰		| ❌	| ❌	| ✅	|
 | multiplayer	| ✅	| ❌	| ✅	| ✅	| ✅	| ✅	| ❌	| ❌	| ❌	|
 | **other**	|	|	|	|	|	|	|	|	|	|
-| visual style	| complex	| simple	| complex	| complex	| complex	| complex	| simple	| simple	| simple	|
+| visual style	| fancy	| clean	| fancy	| fancy	| fancy	| fancy	| clean	| clean	| clean	|
 | custom player visuals	| ✅	| ❌	| ✅	| ✅	| 〰[^7]		| ✅	| ❌	| ❌	| ✅	|
 | rhythm elements	| ✅	| ❌	| 〰	| ❌	| ✅	| ❔	| ❌	| ❌	| ✅	|
 | toki pona translation	| ✅[^8]	| ❌	| ✅	| ❌	| ❌	| ❌	| ❌	| ❌	| ✅	|
