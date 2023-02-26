@@ -40,7 +40,7 @@ aka what to play while waiting for me to finish this
 | visual style	| fancy	| clean	| fancy	| fancy	| fancy	| fancy	| clean	| clean	| clean	|
 | custom player visuals	| ✅	| ❌	| ✅	| ✅	| 〰[^7]		| ✅	| ❌	| ❌	| ✅	|
 | rhythm elements	| ✅	| ❌	| 〰	| ❌	| ✅	| ❔	| ❌	| ❌	| ✅	|
-| toki pona translation	| ✅[^8]	| ❌	| ✅	| ❌	| ❌	| ❌	| ❌	| ❌	| ✅	|
+| [toki pona](https://en.wikipedia.org/wiki/Toki_Pona) translation	| ✅[^8]	| ❌	| ✅	| ❌	| ❌	| ❌	| ❌	| ❌	| ✅	|
 
 [^1]: [the pico-8 version](https://mattmakesgames.itch.io/celesteclassic)
 [^2]: idk if i can link it but it's out there
