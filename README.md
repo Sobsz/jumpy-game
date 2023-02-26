@@ -14,7 +14,7 @@ it will eventually be a game where you jumpy
 
 aka what to play while waiting for me to finish this
 
-|	| [Celeste](https://www.celestegame.com/)	| [Micro Platformer](https://store.steampowered.com/app/1283130/Micro_Platformer/)	| [Minecraft](https://minecraft.net/) parkour	| [ClassiCube](https://www.classicube.net/) (Not Awesome 2)	| [Roblox](https://roblox.com/) obbies	| [Super Mario 64](https://www.mariowiki.com/Super_Mario_64)	| [Clustertruck](https://landfall.se/clustertruck)	| [MEANDERS](https://store.steampowered.com/app/734920/MEANDERS/)	| jumpy game (eventually)	|
+|	| [Celeste](https://www.celestegame.com/)	| [Micro Platformer](https://store.steampowered.com/app/1283130/Micro_Platformer/)	| [Minecraft](https://minecraft.net/) parkour	| [ClassiCube](https://www.classicube.net/) (Not Awesome 2)	| [Roblox](https://roblox.com/) obbies	| [Super Mario 64](https://www.mariowiki.com/Super_Mario_64)	| [Clustertruck](https://landfall.se/clustertruck)	| [MEANDERS](https://frazack.itch.io/meanders)	| jumpy game (eventually)	|
 | -:	| :-:	| :-:	| :-:	| :-:	| :-:	| :-:	| :-:	| :-:	| :-:	|
 | **access**	|	|	|	|	|	|	|	|	|	|
 | free	| ❌	| ✅	| ❌	| ✅	| ✅	| ❌	| ❌	| ❌	| ✅	|
@@ -22,31 +22,32 @@ aka what to play while waiting for me to finish this
 | pc	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	|
 | browser	| 〰[^1]	| ❌	| ❌	| ✅	| ❌	| ✅[^2]	| ❌	| ❌	| ✅	|
 | mobile	| ❌	| ❌	| ✅	| ✅	| ✅	| ✅	| ❌	| ❌	| ✅	|
-| console	| ✅	| ❌	| ✅	| ❌	| ✅	| ✅	| ✅	| ❌	| ❌	|
+| console	| ✅	| ❌	| ✅	| ❌	| ✅	| ✅	| ✅	| ✅[^3]	| ❌	|
 | **gameplay**	|	|	|	|	|	|	|	|	|	|
 | dimensions	| 2	| 2	| 3	| 3	| 3	| 3	| 3	| 3	| 3	|
-| howlongtobeat (official, main + extra)	| 25	| 1	| n/a	| 15+[^3]	| n/a	| 17	| 5.5	| 2.5	| 5?	|
+| howlongtobeat (official, main + extra)	| 25	| 1	| n/a	| 15+[^4]	| n/a	| 17	| 5.5	| 2.5	| 5?	|
 | caters to noobs	| 〰	| 〰	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	|
 | caters to advanced	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	|
 | caters to experts	| ✅	| ✅	| ✅	| ❌	| ✅	| ✅	| ✅	| ❌	| ❔	|
 | custom levels	| ✅	| 〰	| ✅	| 〰	| ✅	| 〰	| ✅	| ❌	| ✅	|
-| ↑ sorted by difficulty	| ❌	| ❔	| 〰[^4]		| ❌	| ✅[^5]	| ❌	| ❌	| n/a	| ✅	|
+| ↑ sorted by difficulty	| ❌	| ❔	| 〰[^5]		| ❌	| ✅[^6]	| ❌	| ❌	| n/a	| ✅	|
 | custom elements	| ✅	| ❌	| ✅	| ✅	| ✅	| ✅	| ❌	| n/a	| ✅	|
 | sanctioned cheats	| ✅	| ❌	| ✅	| ❌	| ❌	| 〰		| ❌	| ❌	| ✅	|
 | multiplayer	| ✅	| ❌	| ✅	| ✅	| ✅	| ✅	| ❌	| ❌	| ❌	|
 | **other**	|	|	|	|	|	|	|	|	|	|
 | visual style	| complex	| simple	| complex	| complex	| complex	| complex	| simple	| simple	| simple	|
-| custom player visuals	| ✅	| ❌	| ✅	| ✅	| 〰[^6]		| ✅	| ❌	| ❌	| ✅	|
+| custom player visuals	| ✅	| ❌	| ✅	| ✅	| 〰[^7]		| ✅	| ❌	| ❌	| ✅	|
 | rhythm elements	| ✅	| ❌	| 〰	| ❌	| ✅	| ❔	| ❌	| ❌	| ✅	|
-| toki pona translation	| ✅[^7]	| ❌	| ✅	| ❌	| ❌	| ❌	| ❌	| ❌	| ✅	|
+| toki pona translation	| ✅[^8]	| ❌	| ✅	| ❌	| ❌	| ❌	| ❌	| ❌	| ✅	|
 
 [^1]: [the pico-8 version](https://mattmakesgames.itch.io/celesteclassic)
 [^2]: idk if i can link it but it's out there
-[^3]: based on [incomplete speedrun times](https://www.speedrun.com/na2/full_game)
-[^4]: [world parkour maker](https://www.worldparkourmaker.com/), maybe some offline collections too but idk
-[^5]: [tiered obbies](https://www.roblox.com/games/5946849188/Tiered-Obbies), [Juke's Towers of Hell](https://www.roblox.com/games/8562822414/Jukes-Towers-of-Hell) (and similar, e.g. [The Noob Zone Towers](https://www.roblox.com/games/8678939697/The-Noob-Zone-Towers)), difficulty chart obbies
-[^6]: colors and t-shirts are free, everything else is microtransactions
-[^7]: o kama jo lon [ni](https://gamebanana.com/mods/420491)
+[^3]: [switch version](https://www.nintendo.com/store/products/meanders-switch/)
+[^4]: based on [incomplete speedrun times](https://www.speedrun.com/na2/full_game)
+[^5]: [world parkour maker](https://www.worldparkourmaker.com/), maybe some offline collections too but idk
+[^6]: [tiered obbies](https://www.roblox.com/games/5946849188/Tiered-Obbies), [Juke's Towers of Hell](https://www.roblox.com/games/8562822414/Jukes-Towers-of-Hell) (and similar, e.g. [The Noob Zone Towers](https://www.roblox.com/games/8678939697/The-Noob-Zone-Towers)), difficulty chart obbies
+[^7]: colors and t-shirts are free, everything else is microtransactions
+[^8]: o kama jo lon [ni](https://gamebanana.com/mods/420491)
 
 honorable mention: [neverball](https://neverball.org/) which isn't really a standard platformer but has similar vibes outside of that (and is also quite fun)
 
