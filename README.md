@@ -56,6 +56,7 @@ honorable mention: [neverball](https://neverball.org/) which isn't really a stan
 ## todo
 
 - [x] basic movement
+	- [ ] linear acceleration as an option (or replacing exponential?)
 	- [x] sneak
 		- [ ] crawl
 	- [ ] celeste dash?
@@ -63,7 +64,7 @@ honorable mention: [neverball](https://neverball.org/) which isn't really a stan
 	- [ ] minecraft [stepping](https://www.mcpk.wiki/wiki/Special:MyLanguage/Stepping)?
 	- [ ] sonic continuous acceleration (specifically separate from inertia)
 	- [ ] variable-height jumps?
-	- [ ] finetune it to make sure it's good and comfy
+	- [ ] finetune it to make sure it's good and comfy; might not matter because roblox obbies are fun despite lack thereof
 - [ ] mouse rotation
 - [x] 45° snap rotation
 	- [ ] make camera follow it smoothly
@@ -89,20 +90,18 @@ honorable mention: [neverball](https://neverball.org/) which isn't really a stan
 	- [ ] movebricks?
 	- [ ] buttonbricks??
 	- [ ] launchbricks?
-	- [ ] checkpointbricks (full reset would require going into a menu i guess)
+	- [ ] checkpointbricks (full reset would require going into a menu i guess, or resetting at a checkpoint)
 - [ ] a complete level
 	- [ ] a level someone actively enjoys
 	- [ ] one level for each mechanic
 	- [ ] a full default level set (let's say 36 with a nice difficulty curve)
 	- [ ] a kaizo level
 	- [ ] someone else making a level
-- [ ] custom level format (includes custom movement values)
+- [ ] level editor
 	- [ ] custom music loading (non-trivial due to godot limitations, might need to import a non-unlicense module)
-	- [ ] level editor
 	- [ ] random generation
 	- [ ] level server
-		- [ ] global highscore system
-		- [ ] elo system? (like in lichess puzzles, failure = 1/nth of a loss)
+		- [ ] global leaderboard
 - [ ] pause menu
 - [ ] level select screen
 	- [ ] level unlocking? (i'm thinking only the first `n` uncompleted levels would be available, effectively allowing for `n` skips that can be restored later)
@@ -114,3 +113,13 @@ honorable mention: [neverball](https://neverball.org/) which isn't really a stan
 		- [ ] visuals
 - [ ] countdown
 	- [ ] maybe fly around the level before playing it? kinda like mario odyssey
+- [ ] options screen
+	- [ ] keybinds
+	- [ ] color scheme?
+- [ ] cheats screen
+- [ ] credits screen
+
+### tonotdo
+
+- custom level format; godot editor is good enough, and if people wanna make ports then a converter can be rigged up
+- elo system for level difficulty (like in lichess puzzles, failure = 1/nth of a loss (with maybe multiple scores for varying `n`s)); there aren't gonna be enough players for that to work well, and it might encourage sticking to easy unfun levels
