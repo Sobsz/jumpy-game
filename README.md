@@ -14,25 +14,27 @@ it will eventually be a game where you jumpy
 
 aka what to play while waiting for me to finish this
 
+underlined are aspects i personally care about
+
 (wider view [here](https://github.com/Sobsz/jumpy-game/blob/main/README.md#comparison))
 
 |	| [Celeste](https://www.celestegame.com/)	| [Micro Platformer](https://store.steampowered.com/app/1283130/Micro_Platformer/)	| [Minecraft](https://minecraft.net/) parkour	| [ClassiCube](https://www.classicube.net/) (Not Awesome 2 server)	| [Roblox](https://roblox.com/) obbies	| [Super Mario 64](https://www.mariowiki.com/Super_Mario_64)	| [Clustertruck](https://landfall.se/clustertruck)	| [MEANDERS](https://frazack.itch.io/meanders)	| jumpy game (planned)	|
 | -:	| :-:	| :-:	| :-:	| :-:	| :-:	| :-:	| :-:	| :-:	| :-:	|
 | **access**	|	|	|	|	|	|	|	|	|	|
-| free	| ❌	| ✅	| ❌	| ✅	| ✅	| ❌	| ❌	| ❌	| ✅	|
-| offline	| ✅	| ✅	| ✅	| ❌	| ❌	| ✅	| ✅	| ✅	| ✅	|
+| __free__	| ❌	| ✅	| ❌	| ✅	| ✅	| ❌	| ❌	| ❌	| ✅	|
+| __offline__	| ✅	| ✅	| ✅	| ❌	| ❌	| ✅	| ✅	| ✅	| ✅	|
 | pc	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	|
 | browser	| 〰[^1]	| ❌	| ❌	| ✅	| ❌	| ✅[^2]	| ❌	| ❌	| ✅	|
 | mobile	| ❌	| ❌	| ✅	| ✅	| ✅	| ✅	| ❌	| ❌	| ✅	|
 | console	| ✅	| ❌	| ✅	| ❌	| ✅	| ✅	| ✅	| ✅[^3]	| ❌	|
 | **gameplay**	|	|	|	|	|	|	|	|	|	|
-| dimensions	| 2	| 2	| 3	| 3	| 3	| 3	| 3	| 3	| 3	|
+| __dimensions__	| 2	| 2	| 3	| 3	| 3	| 3	| 3	| 3	| 3	|
 | howlongtobeat (official, main + extra)	| 25	| 1	| n/a	| 15+[^4]	| n/a	| 17	| 5.5	| 2.5	| 5?	|
 | caters to noobs	| 〰	| 〰	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	|
-| caters to advanced	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	|
+| __caters to advanced__	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	|
 | caters to experts	| ✅	| ✅	| ✅	| ❌	| ✅	| ✅	| ✅	| ❌	| ❔	|
-| custom levels	| ✅	| 〰	| ✅	| 〰	| ✅	| 〰	| ✅	| ❌	| ✅	|
-| ↑ sorted by difficulty	| ❌	| ❔	| 〰[^5]		| ❌	| ✅[^6]	| ❌	| ❌	| n/a	| ✅	|
+| __custom levels__	| ✅	| 〰	| ✅	| 〰	| ✅	| 〰	| ✅	| ❌	| ✅	|
+|__↑ sorted by difficulty__	| ❌	| ❔	| 〰[^5]		| ❌	| ✅[^6]	| ❌	| ❌	| n/a	| ✅	|
 | custom elements	| ✅	| ❌	| ✅	| ✅	| ✅	| ✅	| ❌	| n/a	| ✅	|
 | sanctioned cheats	| ✅	| ❌	| ✅	| ❌	| ❌	| 〰		| ❌	| ❌	| ✅	|
 | multiplayer	| ✅	| ❌	| ✅	| ✅	| ✅	| ✅	| ❌	| ❌	| ❌	|
@@ -52,6 +54,8 @@ aka what to play while waiting for me to finish this
 [^8]: o kama jo lon [ni](https://gamebanana.com/mods/420491)
 
 honorable mention: [neverball](https://neverball.org/) which isn't really a standard platformer but has similar vibes outside of that (and is also quite fun)
+
+also [seum](https://store.steampowered.com/app/457210/SEUM_Speedrunners_from_Hell) which i haven't tried yet but it seems cool
 
 ## todo
 
@@ -99,6 +103,7 @@ honorable mention: [neverball](https://neverball.org/) which isn't really a stan
 	- [ ] someone else making a level
 - [ ] level editor
 	- [ ] custom music loading (non-trivial due to godot limitations, might need to import a non-unlicense module)
+		- [ ] show music title when loading level (automatically solves attribution of potential cc-by music in gameplay videos)
 	- [ ] random generation
 	- [ ] level server
 		- [ ] global leaderboard
@@ -113,13 +118,11 @@ honorable mention: [neverball](https://neverball.org/) which isn't really a stan
 		- [ ] visuals
 - [ ] countdown
 	- [ ] maybe fly around the level before playing it? kinda like mario odyssey
-- [ ] options screen
-	- [ ] keybinds
-	- [ ] color scheme?
 - [ ] cheats screen
 - [ ] credits screen
 
-### tonotdo
+### unplanned
 
-- custom level format; godot editor is good enough, and if people wanna make ports then a converter can be rigged up
-- elo system for level difficulty (like in lichess puzzles, failure = 1/nth of a loss (with maybe multiple scores for varying `n`s)); there aren't gonna be enough players for that to work well, and it might encourage sticking to easy unfun levels
+- custom level format - godot editor is good enough, and if people wanna make ports then a converter can be rigged up
+- elo system for level difficulty (like in lichess puzzles, failure = 1/`n`th of a loss, with maybe multiple scores for varying `n`s) - there aren't gonna be enough players for that to work well, and it might encourage sticking to easy unfun levels
+- paid content - i generally post everything for free (in part because i don't put much effort into it); if you wanna pay then  buy one of [the games above](#comparison) or [donate](https://liberapay.com/hecko/)
