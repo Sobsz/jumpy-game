@@ -78,6 +78,7 @@ also [seum](https://store.steampowered.com/app/457210/SEUM_Speedrunners_from_Hel
 - [ ] slightly fancier model (procedural with adjustable size)
 	- [ ] animated
 	- [ ] minecraft skin import
+		- [ ] [ears mod](https://ears.unascribed.com/) support
 - [x] a barebones level
 - [ ] custom cube+collider object
 	- [ ] other shapes (slope, cylinder?)
@@ -95,6 +96,8 @@ also [seum](https://store.steampowered.com/app/457210/SEUM_Speedrunners_from_Hel
 	- [ ] buttonbricks??
 	- [ ] launchbricks?
 	- [ ] checkpointbricks (full reset would require going into a menu i guess, or resetting at a checkpoint)
+- [ ] collectibles
+	- [ ] unlockable skins/effects based on those?
 - [ ] a complete level
 	- [ ] a level someone actively enjoys
 	- [ ] one level for each mechanic
