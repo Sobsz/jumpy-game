@@ -96,6 +96,11 @@ also [seum](https://store.steampowered.com/app/457210/SEUM_Speedrunners_from_Hel
 	- [ ] buttonbricks??
 	- [ ] launchbricks?
 	- [ ] checkpointbricks (full reset would require going into a menu i guess, or resetting at a checkpoint)
+- [ ] explicitly specified platform order
+	- [ ] somehow handle platform reuse (e.g. looping)
+	- [ ] highlight next platform(s) on demand (assist mode)
+	- [ ] reward skips with satisfying effects
+	- [ ] train a neural network on it to generate levels?
 - [ ] collectibles
 	- [ ] unlockable skins/effects based on those?
 - [ ] a complete level
