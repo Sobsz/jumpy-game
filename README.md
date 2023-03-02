@@ -100,6 +100,7 @@ also [seum](https://store.steampowered.com/app/457210/SEUM_Speedrunners_from_Hel
 	- [ ] highlight next platform(s) when enabled / on demand
 	- [ ] reward skips with satisfying effects
 	- [ ] train a neural network on it to generate levels?
+- [ ] seamless level joining (goal block connected to start block)
 - [ ] collectibles
 	- [ ] unlockable skins/effects based on those?
 - [ ] a complete level
