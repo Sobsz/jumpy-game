@@ -16,6 +16,8 @@ aka what to play while waiting for me to finish this
 
 underlined are aspects i personally care about
 
+see also: https://www.reddit.com/r/gamingsuggestions/comments/pykcd0/is_there_a_game_where_you_just_parkour/
+
 (wider view [here](https://github.com/Sobsz/jumpy-game/blob/main/README.md#comparison))
 
 |	| [Celeste](https://www.celestegame.com/)	| [Micro Platformer](https://store.steampowered.com/app/1283130/Micro_Platformer/)	| [Minecraft](https://minecraft.net/) parkour	| [ClassiCube](https://www.classicube.net/) (Not Awesome 2 server)	| [Roblox](https://roblox.com/) obbies	| [Super Mario 64](https://www.mariowiki.com/Super_Mario_64)	| [Clustertruck](https://landfall.se/clustertruck)	| [MEANDERS](https://frazack.itch.io/meanders)	| jumpy game (planned)	|
