@@ -14,7 +14,7 @@ it will eventually be a game where you jumpy
 
 aka what to play while waiting for me to finish this
 
-underlined are aspects i personally care about
+italicized are aspects i personally care about
 
 see also: https://www.reddit.com/r/gamingsuggestions/comments/pykcd0/is_there_a_game_where_you_just_parkour/
 
@@ -23,20 +23,20 @@ see also: https://www.reddit.com/r/gamingsuggestions/comments/pykcd0/is_there_a_
 |	| [Celeste](https://www.celestegame.com/)	| [Micro Platformer](https://store.steampowered.com/app/1283130/Micro_Platformer/)	| [Minecraft](https://minecraft.net/) parkour	| [ClassiCube](https://www.classicube.net/) (Not Awesome 2 server)	| [Roblox](https://roblox.com/) obbies	| [Super Mario 64](https://www.mariowiki.com/Super_Mario_64)	| [Clustertruck](https://landfall.se/clustertruck)	| [MEANDERS](https://frazack.itch.io/meanders)	| jumpy game (planned)	|
 | -:	| :-:	| :-:	| :-:	| :-:	| :-:	| :-:	| :-:	| :-:	| :-:	|
 | **access**	|	|	|	|	|	|	|	|	|	|
-| __free__	| ❌	| ✅	| ❌	| ✅	| ✅	| ❌	| ❌	| ❌	| ✅	|
-| __offline__	| ✅	| ✅	| ✅	| ❌	| ❌	| ✅	| ✅	| ✅	| ✅	|
+| _free_	| ❌	| ✅	| ❌	| ✅	| ✅	| ❌	| ❌	| ❌	| ✅	|
+| _offline_	| ✅	| ✅	| ✅	| ❌	| ❌	| ✅	| ✅	| ✅	| ✅	|
 | pc	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	|
 | browser	| 〰[^1]	| ❌	| ❌	| ✅	| ❌	| ✅[^2]	| ❌	| ❌	| ✅	|
 | mobile	| ❌	| ❌	| ✅	| ✅	| ✅	| ✅	| ❌	| ❌	| ✅	|
 | console	| ✅	| ❌	| ✅	| ❌	| ✅	| ✅	| ✅	| ✅[^3]	| ❌	|
 | **gameplay**	|	|	|	|	|	|	|	|	|	|
-| __dimensions__	| 2	| 2	| 3	| 3	| 3	| 3	| 3	| 3	| 3	|
+| _dimensions_	| 2	| 2	| 3	| 3	| 3	| 3	| 3	| 3	| 3	|
 | howlongtobeat (official, main + extra)	| 25	| 1	| n/a	| 15+[^4]	| n/a	| 17	| 5.5	| 2.5	| 5?	|
 | caters to noobs	| 〰	| 〰	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	|
-| __caters to advanced__	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	|
+| _caters to advanced_	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	| ✅	|
 | caters to experts	| ✅	| ✅	| ✅	| ❌	| ✅	| ✅	| ✅	| ❌	| ❔	|
-| __custom levels__	| ✅	| 〰	| ✅	| 〰	| ✅	| 〰	| ✅	| ❌	| ✅	|
-|__↑ sorted by difficulty__	| ❌	| ❔	| 〰[^5]		| ❌	| ✅[^6]	| ❌	| ❌	| n/a	| ✅	|
+| _custom levels_	| ✅	| 〰	| ✅	| 〰	| ✅	| 〰	| ✅	| ❌	| ✅	|
+| _↑ sorted by difficulty_	| ❌	| ❔	| 〰[^5]		| ❌	| ✅[^6]	| ❌	| ❌	| n/a	| ✅	|
 | custom elements	| ✅	| ❌	| ✅	| ✅	| ✅	| ✅	| ❌	| n/a	| ✅	|
 | sanctioned cheats	| ✅	| ❌	| ✅	| ❌	| ❌	| 〰		| ❌	| ❌	| ✅	|
 | multiplayer	| ✅	| ❌	| ✅	| ✅	| ✅	| ✅	| ❌	| ❌	| ❌	|
@@ -57,7 +57,7 @@ see also: https://www.reddit.com/r/gamingsuggestions/comments/pykcd0/is_there_a_
 
 honorable mention: [neverball](https://neverball.org/) which isn't really a standard platformer but has similar vibes outside of that (and is also quite fun)
 
-also [seum](https://store.steampowered.com/app/457210/SEUM_Speedrunners_from_Hell) which i haven't tried yet but it seems cool
+also [seum](https://store.steampowered.com/app/457210/SEUM_Speedrunners_from_Hell) which i haven't tried yet but it seems cool [update: i now have and yeah it's cool]
 
 ## todo
 
